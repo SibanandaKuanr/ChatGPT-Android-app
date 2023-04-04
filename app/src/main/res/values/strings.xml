@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChatGPT</string>
+    <string name="app_hint">Ask anything! Chat bot is ready to answer it.</string>
+</resources>
