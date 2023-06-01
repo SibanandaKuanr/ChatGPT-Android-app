@@ -16,7 +16,7 @@ This app uses third-party service API ( Open AI API ), you can generate your own
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1DMwO_yz_G0MJP_jL-1jLmRDA8-vkDVKJ/view?usp=share_link">
-    <img src="https://www.inspirefm.org/wp-content/uploads/button-apk.png" height="100">
+    <img src="https://i.ibb.co/yf0m953/Download-apk-1.png" height="100">
   </a>
 </p>
 
